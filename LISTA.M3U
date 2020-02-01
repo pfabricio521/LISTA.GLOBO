@@ -1,0 +1,6 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="/iptv-list.jpg" pltv-name="canaisrgt" pltv-description="Lista IPTV" pltv-cover="/iptv-list.jpg" pltv-author="lucas tadeu" pltv-email="lucasscheki15@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minilua.com/wp-content/uploads/2010/03/38c1_novologoglobo1.jpg" group-title="GLOBO",GLOBO HD
+http://cms-central.co:80/kaiokaio02/951417943/26162
